@@ -1,0 +1,16 @@
+
+> amazonsignin@1.0.0 wdio
+> wdio run ./wdio.conf.js
+
+
+Execution of 2 workers started at 2024-10-03T05:23:18.192Z
+
+[0-0] RUNNING in Chrome - file:///test/specs/signInBrowser.js
+[0-0] User successfully logged in and logged out of the browser
+[0-0] PASSED in Chrome - file:///test/specs/signInBrowser.js
+[1-0] RUNNING in Safari - file:///test/specs/signInBrowser.js
+[1-0] User successfully logged in and logged out of the browser
+[1-0] PASSED in Safari - file:///test/specs/signInBrowser.js
+
+Spec Files:	 2 passed, 2 total (100% completed) in 00:00:28  
+
